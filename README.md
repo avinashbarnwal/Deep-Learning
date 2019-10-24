@@ -11,3 +11,8 @@
 ## With Pytorch
 
 * https://github.com/udacity/deep-learning-v2-pytorch
+
+
+## Activation Functions
+
+* Why RELU- https://stats.stackexchange.com/questions/226923/why-do-we-use-relu-in-neural-networks-and-how-do-we-use-it
