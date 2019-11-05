@@ -20,3 +20,7 @@
 ## Categorical Variables
 
 * https://towardsdatascience.com/deep-embeddings-for-categorical-variables-cat2vec-b05c8ab63ac0
+
+## Batch Normalization in Neural Networks
+
+* https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c
