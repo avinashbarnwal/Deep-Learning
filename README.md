@@ -16,3 +16,7 @@
 ## Activation Functions
 
 * Why RELU- https://stats.stackexchange.com/questions/226923/why-do-we-use-relu-in-neural-networks-and-how-do-we-use-it
+
+## Categorical Variables
+
+* https://towardsdatascience.com/deep-embeddings-for-categorical-variables-cat2vec-b05c8ab63ac0
