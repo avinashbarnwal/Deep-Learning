@@ -30,3 +30,6 @@
 * https://datascience.stackexchange.com/questions/30989/what-are-the-cases-where-it-is-fine-to-initialize-all-weights-to-zero
 * https://datascience.stackexchange.com/questions/17987/how-should-the-bias-be-initialized-and-regularized/18145#18145
 * https://datascience.stackexchange.com/questions/13061/when-to-use-he-or-glorot-normal-initialization-over-uniform-init-and-what-are
+
+## IOT Application
+- https://arxiv.org/pdf/1712.04301.pdf
