@@ -33,3 +33,6 @@
 
 ## IOT Application
 - https://arxiv.org/pdf/1712.04301.pdf
+
+## Embeddings
+- https://blogs.rstudio.com/tensorflow/posts/2018-09-26-embeddings-recommender/
