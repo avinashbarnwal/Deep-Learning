@@ -11,3 +11,28 @@
 ## With Pytorch
 
 * https://github.com/udacity/deep-learning-v2-pytorch
+
+
+## Activation Functions
+
+* Why RELU- https://stats.stackexchange.com/questions/226923/why-do-we-use-relu-in-neural-networks-and-how-do-we-use-it
+
+## Categorical Variables
+
+* https://towardsdatascience.com/deep-embeddings-for-categorical-variables-cat2vec-b05c8ab63ac0
+
+## Batch Normalization in Neural Networks
+
+* https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c
+
+## Weight Initialization
+
+* https://datascience.stackexchange.com/questions/30989/what-are-the-cases-where-it-is-fine-to-initialize-all-weights-to-zero
+* https://datascience.stackexchange.com/questions/17987/how-should-the-bias-be-initialized-and-regularized/18145#18145
+* https://datascience.stackexchange.com/questions/13061/when-to-use-he-or-glorot-normal-initialization-over-uniform-init-and-what-are
+
+## IOT Application
+- https://arxiv.org/pdf/1712.04301.pdf
+
+## Embeddings
+- https://blogs.rstudio.com/tensorflow/posts/2018-09-26-embeddings-recommender/
