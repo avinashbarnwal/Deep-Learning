@@ -36,3 +36,6 @@
 
 ## Embeddings
 - https://blogs.rstudio.com/tensorflow/posts/2018-09-26-embeddings-recommender/
+
+## Deep Pi Car
+- https://towardsdatascience.com/tagged/deep-pi-car
