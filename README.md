@@ -40,5 +40,5 @@
 ## Deep Pi Car
 - https://towardsdatascience.com/tagged/deep-pi-car
 
-## GPU n EC2
+## GPU on EC2
 - https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
