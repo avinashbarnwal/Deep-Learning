@@ -42,3 +42,6 @@
 
 ## GPU on EC2
 - https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
+
+## Convolutions
+- https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728
