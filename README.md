@@ -48,3 +48,6 @@
 
 ## EfficientNet
 - https://github.com/lukemelas/EfficientNet-PyTorch
+
+## Mix-Data
+- https://www.pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/
