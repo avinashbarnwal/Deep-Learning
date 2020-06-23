@@ -45,3 +45,6 @@
 
 ## Convolutions
 - https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728
+
+## EfficientNet
+- https://github.com/lukemelas/EfficientNet-PyTorch
