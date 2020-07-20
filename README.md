@@ -51,3 +51,6 @@
 
 ## Mix-Data
 - https://www.pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/
+
+## BERT
+- https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03
