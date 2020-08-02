@@ -54,3 +54,5 @@
 
 ## BERT
 - https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03
+
+- https://www.kaggle.com/c/alaska2-image-steganalysis/discussion/168510
