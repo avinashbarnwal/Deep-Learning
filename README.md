@@ -56,3 +56,6 @@
 - https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03
 
 - https://www.kaggle.com/c/alaska2-image-steganalysis/discussion/168510
+
+## Machine Learning Deployment
+- https://www.udemy.com/course/testing-and-monitoring-machine-learning-model-deployments/
