@@ -60,6 +60,6 @@
 ## Machine Learning Deployment
 - https://www.udemy.com/course/testing-and-monitoring-machine-learning-model-deployments/
 
-##Interpretating Deep Learning
+## Interpretating Deep Learning
 - https://arxiv.org/pdf/2210.05189.pdf
 - https://github.com/SelfExplainML/PiML-Toolbox
