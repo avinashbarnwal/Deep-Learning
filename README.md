@@ -54,7 +54,6 @@
 
 ## BERT
 - https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03
-
 - https://www.kaggle.com/c/alaska2-image-steganalysis/discussion/168510
 
 ## Machine Learning Deployment
@@ -63,3 +62,12 @@
 ## Interpretating Deep Learning
 - https://arxiv.org/pdf/2210.05189.pdf
 - https://github.com/SelfExplainML/PiML-Toolbox
+
+## Tabular Deep Learning
+### Deep Neural Networks and Tabular Data: A Survey (2021-10)
+- Paper - https://arxiv.org/abs/2110.01889
+- Code - https://github.com/kathrinse/TabSurvey
+
+#### Revisting Deep Learning For Tabular Data
+- https://github.com/Yura52/rtdl
+- https://arxiv.org/pdf/2106.11959.pdf
